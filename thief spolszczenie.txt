@@ -1,0 +1,18 @@
+ ####### ##   ##   ######   ######   ######  
+   ###   ##   ##     ##     ##       ##      
+   ###   ##   ##     ##     ##       ##      
+   ###   #######     ##     #####    #####   
+   ###   ##   ##     ##     ##       ##      
+   ###   ##   ##     ##     ##       ##      
+   ###   ##   ##   ######   ######   ##      
+
+                                                               
+
+T³umaczenie wykonane przez raven4444 (raven4444[at]gmail[dot]com)
+Sposób instalacji:
+1. Zast¹piæ plikami z tego archium odpowiadajace im pliki z z archiwum Fmki (plik .zip)
+Sposób trwa³y po ka¿dej instalacji fmki bêdzie jêzyk polski.
+2. Zast¹piæ plikami z archiwum, pliki które pojawi³y siê po zainstalowaniu Fmki w folderze Thief 2
+Sposób nie trwa³y po ka¿dej instalacji fmki nale¿y ponownie zast¹piæ pliki.
+
+www.thief-forum.ehost.pl

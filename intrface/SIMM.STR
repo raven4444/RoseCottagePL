@@ -1,0 +1,7 @@
+// string file for anims.
+// Format is list of anims
+// then x,y fps (r|l)
+// where 'r' means reverse, and 'l' means loop normally
+list: ""
+//sima: "126,263 6.9 r"
+//simb: "491,262 5.7 r"
